@@ -1,0 +1,35 @@
+<resources>
+
+    <!-- Splash Screen texts -->
+    <string name="app_name">FYP</string>
+    <string name="emotion_detector">EMOTION DETECTOR</string>
+    <string name="v1_0_kj">Powered By KJ Inc.</string>
+
+    <!-- Onboarding Screen texts -->
+    <string name="get_started">Get Started</string>
+    <string name="skip">Skip</string>
+
+    <!-- Detection Screen texts -->
+    <string name="snap">SNAP</string>
+    <string name="left_eye">Please open your left eye</string>
+    <string name="right_eye">Please open your right eye</string>
+    <string name="please_open_your_right_eye">Please Open your right eye</string>
+    <string name="please_open_your_left_eye">Please Open your left eye</string>
+
+    <!-- Reminder Screen texts -->
+    <string name="set_reminder">SET REMINDER</string>
+    <string name="set_remind">SET REMINDER</string>
+    <string name="my_account">My Activities</string>
+    <string name="detect_emotion">Detect Emotion</string>
+    <string name="set_reminder_2">Set Reminder</string>
+    <string name="set_title">Reminder Title</string>
+    <string name="notification">Notification Text</string>
+    <string name="set_r_b">SET REMINDER</string>
+    <string name="kajendra_naath_rajan">Kajendra Naath Rajan</string>
+    <string name="current_user">Current user:</string>
+    <string name="verified_google_account">KJ Inc. Computer Services</string>
+    <string name="account_name">Account Name</string>
+    <string name="username">Username</string>
+
+
+</resources>

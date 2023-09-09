@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1090981335910",
+    "project_id": "emotion-e33e7",
+    "storage_bucket": "emotion-e33e7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1090981335910:android:22db54c33aa7a1976eeea7",
+        "android_client_info": {
+          "package_name": "com.kajendra.emotion"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1090981335910-gf2b9rjbq0vos03pfj84m3k20aecvegi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kajendra.emotion",
+            "certificate_hash": "68e0184198d313a38d1a966acfff915efad413b6"
+          }
+        },
+        {
+          "client_id": "1090981335910-jcn3j1oib5jmuup05mqmgcjp57pi7jam.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyD-K2qnofad6F8QhKwAotX8mtVrU_G1U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1090981335910-jcn3j1oib5jmuup05mqmgcjp57pi7jam.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
